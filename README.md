@@ -4,6 +4,13 @@
 
 Datasheet ini berisi data dari Provinsi , Kota/Kabupaten , Kecamatan , Dan Kelurahan / Desa dalam bentuk file json . Data Ini Dikumpulkan pada 2019
 
+Jumlah Data :
+
+    Provinsi 			: 31
+    Kota / Kabupaten 	: 393
+    Kecamatan 			: 5480
+    Kelurahan / Desa 	: 64127
+
 Struktur  Provinsi :
 
     [

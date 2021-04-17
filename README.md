@@ -6,10 +6,10 @@ Datasheet ini berisi data dari Provinsi , Kota/Kabupaten , Kecamatan , Dan Kelur
 
 Jumlah Data :
 
-    Provinsi		: 31
-    Kota / Kabupaten: 393
-    Kecamatan		: 5480
-    Kelurahan / Desa: 64127
+    Provinsi: 31
+    Kota / Kabupaten:393
+    Kecamatan:5480
+    Kelurahan / Desa:64127
 
 Struktur  Provinsi :
 
